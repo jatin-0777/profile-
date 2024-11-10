@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>
+Ordered list 
+</title>
+</head>
+<body>
+<ol type ="A">
+<li> Orange </li>
+<li> Apple </li>
+<li> Guava </li>
+<li> Grapes </li>
+</ol>
